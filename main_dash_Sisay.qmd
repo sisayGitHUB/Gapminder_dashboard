@@ -92,7 +92,7 @@ top20_countries_plot<-
 ```
 # Home
 
-## Row 1 {height=30%}
+## Row 1 {height=31%}
 
 ```{r}
 value_box(
@@ -126,7 +126,7 @@ value_box(
 
 ## Row 2 {height=70%}
 
-### {width=70%}
+### {width=69%}
 
 ```{r title= "Map of life Expectancy by Countries"}
 gap_mapplot
